@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.vodafone.advancedpayment"
+    },
+    "jhipsterVersion": "6.6.0",
+    "applicationType": "microservice",
+    "baseName": "hello",
+    "packageName": "com.vodafone.advancedpayment",
+    "packageFolder": "com/vodafone/advancedpayment",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MzUyY2YzN2UwMmQ5MTc2Njc5MDYwNTFmMmNjYmJmYTU1YjU4ZmUzZTA3ZGIzNGYwMjQ2NTQ5MjJmOTc3MDg3Yjc2ZWM4YzE0MTEyZjU2NWViYjAzYTE3MDE5OThiNGZjOWFlY2FhNWVjZmZjODVjNTFlYWMxZTAxOWZjNWRkYzQ=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1584640369907,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
